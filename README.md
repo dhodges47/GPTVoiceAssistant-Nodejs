@@ -2,6 +2,8 @@
 
 This is a demo project to have a voice chat with the Assistant.
 
+It is a terminal program, all the action takes place in the command-line.
+
 
 Converted from the python program here: 
 
