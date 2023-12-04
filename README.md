@@ -10,7 +10,7 @@ Converted from the python program here:
 https://github.com/dhodges47/GPTVoiceAssistant
 
 
-This is the javascript/nodejs script for the article by Jordan Gibbs on Medium: "How to Create Your Own GPT Voice Assistant with Infinite Chat Memory in Python" 
+This is the javascript/nodejs script for the article by Jordan Gibbs on Medium: "How to Create Your Own GPT Voice Assistant with Infinite Chat Memory in Python" (thank you Jordan Gibbs!)
 
 https://medium.com/@jordanlgibbs/how-to-create-your-own-gpt-voice-assistant-with-infinite-chat-memory-in-python-d8b8e93f6b21
 
